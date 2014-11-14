@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Pipboy
+Comment=Gnome2 Pipboy theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Pipboy
+MetacityTheme=Pipboy
+IconTheme=pipboyicons
+ButtonLayout=close,minimize,maximize:
